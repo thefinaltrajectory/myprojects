@@ -28,9 +28,13 @@ Key Features & Metrics:
 Tables with detailed restaurant information.
 
 #Data Transformations and Calculations:
+
 Utilized DAX (Data Analysis Expressions) for creating calculated columns, including:
+
 #Extracted Rating: A custom DAX formula was used to extract numerical ratings from strings like "4.1/5".
 #Rating Category: Based on the extracted rating, a DAX expression classifies restaurants as High Rated or Low Rated.
 #Price Category: A DAX formula categorizes the restaurants into Expensive or Cheap based on the price value.
+
 #Outcome & Insights:
+
 The Zomato Dashboard enables users to analyze restaurant ratings and pricing in an easy-to-understand, visual format. By utilizing DAX for dynamic calculations, the dashboard helps identify trends and correlations, empowering better decision-making in restaurant selection.
